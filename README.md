@@ -14,7 +14,7 @@ npm install
 Start the application in the backend directory first then the frontend directory.
 
 ```
-npm run start
+npm start
 ```
 
 ## Running Tests
@@ -34,11 +34,14 @@ npm test
 - HTML
 
 ## Usage
-Adding a book to the booknow app and the calendar
-![Adding a book to the booknow app](https://github.com/user-attachments/assets/0ef60f85-17cb-4912-b2c1-178d1f5f5cfc)
+Add a new book to the calendar
+![Adding a book](https://github.com/user-attachments/assets/0ef60f85-17cb-4912-b2c1-178d1f5f5cfc)
 
-Viewing existing list of books and updating/deleting books
-![Viewing existing list of books](https://github.com/user-attachments/assets/80461665-df04-4349-bb69-6708db4c990e)
+------
+See the existing book list
+![list](https://github.com/user-attachments/assets/80461665-df04-4349-bb69-6708db4c990e)
+
+
 
 ### Features
 
